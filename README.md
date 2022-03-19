@@ -17,10 +17,10 @@ receiver App of 4-C
 [How to Install Ubuntu Desktop on Raspberry Pi 4 By Avimanyu Bandyopadhyay ](https://itsfoss.com/install-ubuntu-desktop-raspberry-pi/)
 ### Step 3: install Yolo v4 in raspberry pi 4
 [YOLOv4-darknet installation and usage on your system (Windows & Linux)](https://medium.com/geekculture/yolov4-darknet-installation-and-usage-on-your-system-windows-linux-8dec2cea6e81)
-### Step 4: We use ESP to connect App with Wi-Fi
+### Step 4: use ESP to connect App with Wi-Fi
 #### We use firebase to push notification and learn skills of IoT with the following tutorial
 [IoT Using Raspberry Pi and Firebase and Android](https://www.hackster.io/ahmedibrrahim/iot-using-raspberry-pi-and-firebase-and-android-dbe61d)
-### Step 5: Custom Yolo to make it can predict crashes
+### Step 5: custom Yolo to make it can predict crashes
 [Train a custom YOLOv4 object detector on Linux](https://medium.com/geekculture/train-a-custom-yolov4-object-detector-on-linux-49b9114b9dc8)
 ## The following picture is sreenshot from edge device
 ![our edge device can run with yolov4 now](https://i.imgur.com/ImA5ddP.png)
