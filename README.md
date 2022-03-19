@@ -20,7 +20,7 @@ receiver App of 4-C
 ### Step 4: use ESP to connect App with Wi-Fi
 #### We use firebase to push notification and learn skills of IoT with the following tutorial
 [IoT Using Raspberry Pi and Firebase and Android](https://www.hackster.io/ahmedibrrahim/iot-using-raspberry-pi-and-firebase-and-android-dbe61d)
-### Step 5: custom Yolo to make it can predict crashes
+### Step 5: customize Yolo to make it can predict crashes
 [Train a custom YOLOv4 object detector on Linux](https://medium.com/geekculture/train-a-custom-yolov4-object-detector-on-linux-49b9114b9dc8)
 ## The following picture is sreenshot from edge device
 ![our edge device can run with yolov4 now](https://i.imgur.com/ImA5ddP.png)
