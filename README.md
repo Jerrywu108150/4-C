@@ -25,4 +25,8 @@ receiver App of 4-C
 ## The following picture is sreenshot from edge device
 ![our edge device can run with yolov4 now](https://i.imgur.com/ImA5ddP.png)
 
+![App](https://i.imgur.com/f89qiqR.png)
+
+
+
 
