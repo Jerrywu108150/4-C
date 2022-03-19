@@ -2,7 +2,7 @@
 
 receiver App of 4-C
 
-## Getting Started
+## Run this project on flutter
 ### Step 1: prepare edge device(the following items are what we need)
 1. Raspberry pi 4
 2. RPi Camera V2
