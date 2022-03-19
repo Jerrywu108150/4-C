@@ -4,7 +4,7 @@ receiver App of 4-C
 
 ## Getting Started
 ### Step 1: prepare edge device(the following items are what we need)
-1. raspberry pi 4
+1. Raspberry pi 4
 2. RPi Camera V2
 3. ESP-S3-12K
 4. Darlington High Power Transistor
