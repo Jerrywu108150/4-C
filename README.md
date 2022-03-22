@@ -22,7 +22,7 @@ receiver App of 4-C
 [IoT Using Raspberry Pi and Firebase and Android](https://www.hackster.io/ahmedibrrahim/iot-using-raspberry-pi-and-firebase-and-android-dbe61d)
 ### Step 5: customize Yolo to make it can predict crashes
 [Train a custom YOLOv4 object detector on Linux](https://medium.com/geekculture/train-a-custom-yolov4-object-detector-on-linux-49b9114b9dc8)
-## The following picture is sreenshot from edge device
+## The following picture is sreenshot from edge device and App
 ![our edge device can run with yolov4 now](https://i.imgur.com/ImA5ddP.png)
 
 ![App](https://i.imgur.com/f89qiqR.png)
